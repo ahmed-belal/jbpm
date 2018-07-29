@@ -8,5 +8,6 @@ public class SimpleCreditService implements CreditService {
 		System.out.println( "For ssn " + ssn + ", will return credit score of " + score );
 		return score;
 	}
+	
 
 }
