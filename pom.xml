@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <artifactId>mortgage-process</artifactId>
   <groupId>mortgage-process</groupId>
-  <version>1.0.2-SNAPSHOT</version>
+  <version>1.0.10-SNAPSHOT</version>
   <packaging>kjar</packaging>
   <name>Mortgage Process</name>
   <description>Getting started loan approval process in BPMN2, decision table, business rules, and forms.</description>
